@@ -1,2 +1,4 @@
 # first-git
-this is my first git repository
+This is my first Git Repository
+<br>
+Author - Bikesh kushwaha
